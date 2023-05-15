@@ -1,6 +1,5 @@
 node_modules
 .history
-dist/
 
 # local env files
 .env.local
